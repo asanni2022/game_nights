@@ -1,0 +1,42 @@
+@font-face {
+	font-family: Short Stack;
+	src: url("./assets/Font/ShortStack-Regular.ttf");
+}
+
+#root {
+	width: 100%;
+	text-align: center;
+	/* background-color: #17212f; */
+}
+/* html,
+body *,
+body,
+#root * {
+	background-color: #17212f;
+	color: aliceblue;
+} */
+/* this is to ensure divs don't show up behind navbar */
+.separator {
+	height: 93px;
+}
+
+img {
+	max-width: 100%;
+}
+.ssfont {
+	font-family: Short Stack;
+}
+
+.center-page {
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-color: #17212f;
+	font-family: var(--font-family);
+	color: var(--text-color);
+}
+.btn-create-event {
+	margin: 15px;
+}

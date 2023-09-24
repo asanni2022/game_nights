@@ -1,0 +1,67 @@
+[
+    {
+        "model": "game_night_app.Group",
+        "pk": 1,
+        "fields": {
+            "name": "Group 1",
+            "code": "76072927",
+            "member": [
+                1,
+                2,
+                3
+            ]
+        }
+    },
+    {
+        "model": "game_night_app.Group",
+        "pk": 2,
+        "fields": {
+            "name": "Group 2",
+            "code": "43464537",
+            "member": [
+                2,
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "model": "game_night_app.Group",
+        "pk": 3,
+        "fields": {
+            "name": "Group 3",
+            "code": "80919121",
+            "member": [
+                3,
+                4,
+                5
+            ]
+        }
+    },
+    {
+        "model": "game_night_app.Group",
+        "pk": 4,
+        "fields": {
+            "name": "Group 4",
+            "code": "31489218",
+            "member": [
+                4,
+                5,
+                1
+            ]
+        }
+    },
+    {
+        "model": "game_night_app.Group",
+        "pk": 5,
+        "fields": {
+            "name": "Group 5",
+            "code": "59782772",
+            "member": [
+                5,
+                1,
+                2
+            ]
+        }
+    }
+]

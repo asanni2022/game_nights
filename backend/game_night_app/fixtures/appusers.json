@@ -1,0 +1,77 @@
+[
+    {
+        "model": "game_night_app.AppUser",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$vZGdb6jdM7DiLisKnjRuS3$FwKajqnVJgsi3mB3mtrtuef6cofEM4jJSxtslQY27Xc=",
+            "is_superuser": "False",
+            "username": "fred",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-08-08T00:00:00+00:00",
+            "email": "fred@email.com",
+            "first_name": "Fred",
+            "last_name": "Smith"
+        }
+    },
+    {
+        "model": "game_night_app.AppUser",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$8LgGIH4mCVeX1Jeh31sH7g$a1XgBHylyBQEu03GS8b1W6rr7SNRRQDvVizYw/y8nlc=",
+            "is_superuser": "False",
+            "username": "bill",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-08-09T00:00:00+00:00",
+            "email": "bill@email.com",
+            "first_name": "Bill",
+            "last_name": "Jones"
+        }
+    },
+    {
+        "model": "game_night_app.AppUser",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$ysntySVZuf8DFF5U6qkAUe$IUylwMj+IFjkj/r87u/f3d4LvJxrGr9udNi0sLyGMWU=",
+            "is_superuser": "False",
+            "username": "sally",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-08-10T00:00:00+00:00",
+            "email": "sally@email.com",
+            "first_name": "Sally",
+            "last_name": "Green"
+        }
+    },
+    {
+        "model": "game_night_app.AppUser",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$8ydwbbp2NKKPt6T2JEMHi0$4y4hDrn/HuwzkHZZ+644fCzH8kO/bqL+l5BLYMct4PA=",
+            "is_superuser": "False",
+            "username": "jim",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-08-10T00:00:00+00:00",
+            "email": "jim@email.com",
+            "first_name": "Jim",
+            "last_name": "Jones"
+        }
+    },
+    {
+        "model": "game_night_app.AppUser",
+        "pk": 5,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$8AzoPQ0xpTEbi3dM9bPoro$EF0KgBaQXx3dewALp4MCjQ+9S4vkvBnZSilONspT3+0=",
+            "is_superuser": "False",
+            "username": "john",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-08-10T00:00:00+00:00",
+            "email": "john@email.com",
+            "first_name": "John",
+            "last_name": "Doe"
+        }
+    }
+]

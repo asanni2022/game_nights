@@ -1,0 +1,53 @@
+.blur-image {
+    filter: blur(8px);
+    width: 100%;
+    transform: scale(1.1);
+    height: 900px;
+}
+
+.background-img {
+    position: absolute;
+    z-index: 3;
+    width: 60%;
+    left: 5%;
+    top: 20%;
+    height: 60%;
+}
+
+.carousel-z-index {
+    position: relative;
+    z-index: 1;
+}
+
+.card-z-index {
+    position: absolute;
+    z-index: 3;
+    width: 30%;
+    left: 10%;
+    top: 20%;
+    height: 7em;
+}
+
+.signup-z-index {
+    position: absolute;
+    z-index: 3;
+    width: 40%;
+    left: 40%;
+    top: 5%;
+    height: 7em;
+}
+
+.carousel-control-next-icon {
+    visibility: hidden;
+}
+.carousel-control-prev-icon {
+    visibility: hidden;
+}
+
+.carousel-indicators {
+    visibility: hidden;
+}
+
+.wrapper {
+    position: relative;
+  }

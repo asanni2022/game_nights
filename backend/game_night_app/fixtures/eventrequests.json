@@ -1,0 +1,47 @@
+[
+    {
+        "model": "game_night_app.EventRequest",
+        "pk": 1,
+        "fields": {
+            "sender": 1,
+            "receiver": 2,
+            "event": 1
+        }
+    },
+    {
+        "model": "game_night_app.EventRequest",
+        "pk": 2,
+        "fields": {
+            "sender": 1,
+            "receiver": 3,
+            "event": 2
+        }
+    },
+    {
+        "model": "game_night_app.EventRequest",
+        "pk": 3,
+        "fields": {
+            "sender": 1,
+            "receiver": 4,
+            "event": 3
+        }
+    },
+    {
+        "model": "game_night_app.EventRequest",
+        "pk": 4,
+        "fields": {
+            "sender": 1,
+            "receiver": 5,
+            "event": 4
+        }
+    },
+    {
+        "model": "game_night_app.EventRequest",
+        "pk": 5,
+        "fields": {
+            "sender": 2,
+            "receiver": 3,
+            "event": 2
+        }
+    }
+]

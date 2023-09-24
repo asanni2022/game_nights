@@ -1,0 +1,117 @@
+[
+    {
+        "model": "game_night_app.Event",
+        "pk": 1,
+        "fields": {
+            "owner_id": 1,
+            "name": "Event 1",
+            "code": "81139570",
+            "category": "C1",
+            "max_attendees": 4,
+            "private": "True",
+            "start_time": "2022-08-12T11:44:59+00:00",
+            "end_time": "2022-09-12T11:44:59+00:00",
+            "all_day": "False",
+            "description": "These are starter notes for event 1",
+            "chat_creation": "True",
+            "games": {},
+            "address_1": "58 Hanover Street",
+            "address_2": "",
+            "city": "Norwich",
+            "state": "CT",
+            "zip_code": "06360"
+        }
+    },
+    {
+        "model": "game_night_app.Event",
+        "pk": 2,
+        "fields": {
+            "owner_id": 2,
+            "name": "Event 2",
+            "code": "08479513",
+            "category": "C2",
+            "max_attendees": 2,
+            "private": "False",
+            "start_time": "2022-08-01T09:15:00+00:00",
+            "end_time": "2022-09-12T11:44:59+00:00",
+            "all_day": "False",
+            "description": "These are starter notes for event 2",
+            "chat_creation":"True",
+            "games": {},
+            "address_1": "9465 Addison St.",
+            "address_2": "Apt 3",
+            "city": "Glenview",
+            "state": "IL",
+            "zip_code": "60025"
+        }
+    },
+    {
+        "model": "game_night_app.Event",
+        "pk": 3,
+        "fields": {
+            "owner_id": 3,
+            "name": "Event 3",
+            "code": "25617046",
+            "category": "C3",
+            "max_attendees": 8,
+            "private": "False",
+            "start_time": "2022-08-01T09:15:00+00:00",
+            "end_time": "2022-09-12T11:44:59+00:00",
+            "all_day": "False",
+            "description": "These are starter notes for event 3",
+            "chat_creation": "True",
+            "games": {},
+            "address_1": "94 Rockcrest Street",
+            "address_2": "",
+            "city": "Maplewood",
+            "state": "NJ",
+            "zip_code": "07040"
+        }
+    },
+    {
+        "model": "game_night_app.Event",
+        "pk": 4,
+        "fields": {
+            "owner_id": 4,
+            "name": "Event 4",
+            "code": "44108134",
+            "category": "C4",
+            "max_attendees": 5,
+            "private": "True",
+            "start_time": "2022-08-01T09:15:00+00:00",
+            "end_time": "2022-09-12T11:44:59+00:00",
+            "all_day": "False",
+            "description": "These are starter notes for event 4",
+            "chat_creation": "True",
+            "games": {},
+            "address_1": "7705 Glenridge Court",
+            "address_2": "",
+            "city": "Crofton",
+            "state": "MD",
+            "zip_code": "21114"
+        }
+    },
+    {
+        "model": "game_night_app.Event",
+        "pk": 5,
+        "fields": {
+            "owner_id": 5,
+            "name": "Event 5",
+            "code": "66734333",
+            "category": "C5",
+            "max_attendees": 3,
+            "private": "False",
+            "start_time": "2022-08-01T09:15:00+00:00",
+            "end_time": "2022-09-12T11:44:59+00:00",
+            "all_day": "False",
+            "description": "These are starter notes for event 5",
+            "chat_creation": "True",
+            "games": {},
+            "address_1": "86 South Trenton Ave.",
+            "address_2": "16th Floor",
+            "city": "Glendale",
+            "state": "AZ",
+            "zip_code": "85302"
+        }
+    }
+]

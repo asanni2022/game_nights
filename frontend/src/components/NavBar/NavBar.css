@@ -1,0 +1,30 @@
+.navbar-color {
+	background-color: #1f2d3f;
+}
+
+/* #535bf2 */
+
+.width-100 {
+	width: 100%;
+}
+
+#basic-nav-dropdown,
+.dropdown-text {
+	color: #a2a6ab;
+}
+
+.nav-link:hover,
+#basic-nav-dropdown:hover,
+.dropdown-text:hover {
+	color: #81c783; /*will change color of text within the element on hover */
+	background-color: #1f2d3f;
+}
+
+.dropdown-menu {
+	background-color: #1f2d3f;
+}
+
+.dropdown-item {
+	/* color: #535bf2; */
+	font-size: 18px;
+}

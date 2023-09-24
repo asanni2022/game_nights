@@ -1,0 +1,47 @@
+// [
+//     {
+//         "model": "game_night_app.Game",
+//         "pk": 1,
+//         "fields": {
+//             "title": "Catan",
+//             "player_num": "4",
+//             "description": "A multiplayer board game designed by Klaus Teuber, first published in 1995. Players take on the roles of settlers, each attempting to build and develop holdings while trading and acquiring resources. Players gain victory points as their settlements grow; the first to reach a set number of victory points, typically 10, wins."
+//         }
+//     },
+//     {
+//         "model": "game_night_app.Game",
+//         "pk": 2,
+//         "fields": {
+//             "title": "Monopoly",
+//             "player_num": "8",
+//             "description": "A multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents, aiming to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares. Players receive a stipend every time they pass 'Go' and can end up in jail, from which they cannot move until they have met one of three conditions."
+//         }
+//     },
+//     {
+//         "model": "game_night_app.Game",
+//         "pk": 3,
+//         "fields": {
+//             "title": "The Game of Life",
+//             "player_num": "6",
+//             "description": "Simulates a person's travels through their life, from early adulthood to retirement, with college if necessary, jobs, marriage, and possible children along the way."
+//         }
+//     },
+//     {
+//         "model": "game_night_app.Game",
+//         "pk": 4,
+//         "fields": {
+//             "title": "Candy Land",
+//             "player_num": "4",
+//             "description": "A simple racing board game published by Hasbro. The game requires no reading and minimal counting skills, making it suitable for young children. No strategy is involved as players are never required to make choices; only following directions is required."
+//         }
+//     },
+//     {
+//         "model": "game_night_app.Game",
+//         "pk": 4,
+//         "fields": {
+//             "title": "Risk",
+//             "player_num": "6",
+//             "description": "A strategy board game of diplomacy, conflict and conquest[1] for two to six players. The standard version is played on a board depicting a political map of the world, divided into forty-two territories, which are grouped into six continents. Turns rotate among players who control armies of playing pieces with which they attempt to capture territories from other players, with results determined by dice rolls. Players may form and dissolve alliances during the course of the game. The goal of the game is to occupy every territory on the board and, in doing so, eliminate the other players."
+//         }
+//     }
+// ]
